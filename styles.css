@@ -83,6 +83,7 @@ h3 { font-size: 17px; line-height: 1.24; letter-spacing: -0.374px; }
 .btn-small { padding: 8px 15px; font: 400 14px/1.29 var(--text-font); letter-spacing: -0.224px; }
 
 /* Hero: headline, subcopy, two download buttons, full-width product shot */
+html { scroll-padding-top: 80px; }
 .hero { padding-top: var(--section); text-align: center; }
 .hero-copy { max-width: 980px; }
 .eyebrow { margin: 0 0 17px; color: var(--green); font: 600 14px/1.29 var(--text-font); letter-spacing: -0.224px; }
